@@ -1,0 +1,6 @@
+#Apache permission setup
+	Full permission: chmod -R 777 /dest/dir
+
+#Clearing Log of Apache
+	rm -rf /var/log/apache2/*
+	
